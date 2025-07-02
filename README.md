@@ -16,3 +16,6 @@ https://data.cityofnewyork.us/dataset/Cool-It-NYC-2020-Spray-Showers/tzuk-eq2f/a
 (4): NTA (Neighborhood Tabulation Area): https://data.cityofnewyork.us/City-Government/2020-Neighborhood-Tabulation-Areas-NTAs-/9nt8-h7nd/about_data
 
 (5): PUMA (Public Use Microdata Areas): https://data.cityofnewyork.us/City-Government/2020-Public-Use-Microdata-Areas-PUMAs-/pikk-p9nv/about_data
+
+
+### Our research start with importing the datasets, after that, we will count the total number of cooling features across NTAs, we will plot out the locations of the cooling features. Then, we will transfer the AC percentage data documented in PUMA regime into NTA regime, we will make a barplot to visualize three indexes for different boroughs. Finally we will plot the calculated NHVI by NTA regime; besides, we will create a biplot and loading map for each PC1 and PC2. 
