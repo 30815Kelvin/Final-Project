@@ -1,6 +1,6 @@
 # Final-Project
 
-## Our research aims to use PCA method to develop a new heat vulnerability index (called NHVI) based on three factors: original HVI derived by nyc.gov environmental health department, household air conditioner percentage, and cooling feature counts. The distribution of NHVI will be plotted on the map of the New York City to show the spatial inequalities between communities.
+### Our research aims to use PCA method to develop a new heat vulnerability index (called NHVI) based on three factors: original HVI derived by nyc.gov environmental health department, household air conditioner percentage, and cooling feature counts. The distribution of NHVI will be plotted on the map of the New York City to show the spatial inequalities between communities.
 
 
 ## Link to relevent datasets: 
