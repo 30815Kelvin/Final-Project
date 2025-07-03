@@ -1,0 +1,184 @@
+TimePeriod,GeoType,GeoID,GeoRank,Geography,Number (with AC),Percent (with AC),Percent (without AC)
+2023,PUMA2020,4103,8,Lower East Side & Chinatown,,"85.0 (13.0, 17.2)","15.0 (13.0, 17.2)"
+2023,PUMA2020,4104,8,Chelsea & Hell's Kitchen,,"89.0^^ (8.2, 12.9)","11.0^^ (8.2, 12.9)"
+2023,PUMA2020,4107,8,Upper West Side,,"95.0^^ (3.9, 6.5)","5.0^^ (3.9, 6.5)"
+2023,PUMA2020,4108,8,Upper East Side & Roosevelt Island,,"92.0 (6.6, 9.6)","8.0 (6.6, 9.6)"
+2023,PUMA2020,4109,8,Morningside Heights & Hamilton Heights,,"85.0^^ (11.8, 17.7)","15.0^^ (11.8, 17.7)"
+2023,PUMA2020,4110,8,Harlem,,"93.0^^ (5.4, 9.4)","7.0^^ (5.4, 9.4)"
+2023,PUMA2020,4111,8,East Harlem,,"85.0^^ (12.3, 18.5)","15.0^^ (12.3, 18.5)"
+2023,PUMA2020,4112,8,Washington Heights & Inwood,,"93.0^^ (5.3, 8.1)","7.0^^ (5.3, 8.1)"
+2023,PUMA2020,4121,8,Financial District & Greenwich Village,,**,**
+2023,PUMA2020,4165,8,"Midtown, East Midtown, & Flatiron",,"96.0^^ (3.4, 5.4)","4.0^^ (3.4, 5.4)"
+2023,PUMA2020,4204,8,Highbridge & Concourse,,"88.0^^ (9.3, 14.6)","12.0^^ (9.3, 14.6)"
+2023,PUMA2020,4205,8,Morris Heights & Mount Hope,,"85.0^^ (11.9, 18.3)","15.0^^ (11.9, 18.3)"
+2023,PUMA2020,4207,8,"Fordham, Bedford Park, & Norwood",,"89.0^^ (8.0, 13.7)","11.0^^ (8.0, 13.7)"
+2023,PUMA2020,4208,8,"Riverdale, Kingsbridge, & Marble Hill",,"89.0^^ (7.7, 13.4)","11.0^^ (7.7, 13.4)"
+2023,PUMA2020,4209,8,Soundview & Parkchester,,"89.0^^ (8.5, 13.8)","11.0^^ (8.5, 13.8)"
+2023,PUMA2020,4210,8,Co-op City & Throgs Neck,,**,**
+2023,PUMA2020,4211,8,Pelham Parkway & Morris Park,,**,**
+2023,PUMA2020,4212,8,"Wakefield, Williamsbridge, & Eastchester",,"86.0^^ (10.4, 18.1)","14.0^^ (10.4, 18.1)"
+2023,PUMA2020,4221,8,"Melrose, Mott Haven, Longwood, & Hunts Point",,"89.0^^ (8.9, 13.4)","11.0^^ (8.9, 13.4)"
+2023,PUMA2020,4263,8,"Morrisania, Tremont, Belmont, & West Farms",,"87.0 (10.9, 15.1)","13.0 (10.9, 15.1)"
+2023,PUMA2020,4301,8,Williamsburg & Greenpoint,,"92.0^^ (6.7, 10.3)","8.0^^ (6.7, 10.3)"
+2023,PUMA2020,4302,8,Downtown Brooklyn & Fort Greene,,"91.0^^ (6.8, 11.9)","9.0^^ (6.8, 11.9)"
+2023,PUMA2020,4303,8,Bedford-Stuyvesant,,"91.0^^ (6.4, 11.7)","9.0^^ (6.4, 11.7)"
+2023,PUMA2020,4304,8,Bushwick,,"86.0^^ (10.1, 18.4)","14.0^^ (10.1, 18.4)"
+2023,PUMA2020,4305,8,East New York & Cypress Hills,,"76.0 (20.1, 27.7)","24.0 (20.1, 27.7)"
+2023,PUMA2020,4306,8,Park Slope & Carroll Gardens,,"91.0^^ (6.9, 11.7)","9.0^^ (6.9, 11.7)"
+2023,PUMA2020,4307,8,Sunset Park & Windsor Terrace,,**,**
+2023,PUMA2020,4308,8,Crown Heights (North),,"91.0^^ (6.6, 11.4)","9.0^^ (6.6, 11.4)"
+2023,PUMA2020,4309,8,Crown Heights (South),,**,**
+2023,PUMA2020,4310,8,Bay Ridge & Dyker Heights,,"79.0^^ (16.4, 25.4)","21.0^^ (16.4, 25.4)"
+2023,PUMA2020,4311,8,Bensonhurst & Bath Beach,,"90.0^^ (7.7, 12.7)","10.0^^ (7.7, 12.7)"
+2023,PUMA2020,4312,8,Borough Park & Kensington,,**,**
+2023,PUMA2020,4313,8,Coney Island & Brighton Beach,,"89.0^^ (8.6, 13.6)","11.0^^ (8.6, 13.6)"
+2023,PUMA2020,4314,8,Flatbush & Midwood,,"92.0^^ (5.8, 9.5)","8.0^^ (5.8, 9.5)"
+2023,PUMA2020,4315,8,Sheepshead Bay & Gravesend (East),,**,**
+2023,PUMA2020,4316,8,Ocean Hill & Brownsville,,"88.0^^ (9.0, 15.4)","12.0^^ (9.0, 15.4)"
+2023,PUMA2020,4317,8,East Flatbush,,"70.0 (25.6, 33.4)","30.0 (25.6, 33.4)"
+2023,PUMA2020,4318,8,Canarsie & Flatlands,,**,**
+2023,PUMA2020,4401,8,Astoria & Queensbridge,,"92.0^^ (5.9, 9.7)","8.0^^ (5.9, 9.7)"
+2023,PUMA2020,4402,8,"Long Island City, Sunnyside, & Woodside",,"87.0^^ (10.1, 16.8)","13.0^^ (10.1, 16.8)"
+2023,PUMA2020,4403,8,Jackson Heights & East Elmhurst,,**,**
+2023,PUMA2020,4404,8,Elmhurst & Corona,,**,**
+2023,PUMA2020,4405,8,"Ridgewood, Maspeth, & Middle Village",,**,**
+2023,PUMA2020,4406,8,Forest Hills & Rego Park,,**,**
+2023,PUMA2020,4407,8,"Flushing, Murray Hill, & Whitestone",,"94.0^^ (4.8, 7.9)","6.0^^ (4.8, 7.9)"
+2023,PUMA2020,4408,8,"Fresh Meadows, Hillcrest, & Briarwood",,**,**
+2023,PUMA2020,4409,8,"Kew Gardens, Richmond Hill, & Woodhaven",,**,**
+2023,PUMA2020,4410,8,South Ozone Park & Howard Beach,,***,***
+2023,PUMA2020,4411,8,"Auburndale, Bayside, & Douglaston",,***,***
+2023,PUMA2020,4412,8,"Jamaica, St. Albans, & Hollis",,**,**
+2023,PUMA2020,4413,8,"Queens Village, Bellerose, & Rosedale",,"88.0^^ (9.0, 15.2)","12.0^^ (9.0, 15.2)"
+2023,PUMA2020,4414,8,The Rockaways,,**,**
+2023,PUMA2020,4501,8,North Shore,,"90.0^^ (7.3, 11.8)","10.0^^ (7.3, 11.8)"
+2023,PUMA2020,4502,8,Mid-Island,,**,**
+2023,PUMA2020,4503,8,South Shore,,**,**
+2023,Borough,1,1,Bronx,,"88.0 (10.7, 12.3)","12.0 (10.7, 12.3)"
+2023,Borough,2,1,Brooklyn,,"89.0 (10.6, 11.8)","11.0 (10.6, 11.8)"
+2023,Borough,3,1,Manhattan,,"92.0 (7.6, 8.8)","8.0 (7.6, 8.8)"
+2023,Borough,4,1,Queens,,"92.0 (7.7, 9.1)","8.0 (7.7, 9.1)"
+2023,Borough,5,1,Staten Island,,"92.0^^ (6.4, 9.8)","8.0^^ (6.4, 9.8)"
+2023,Citywide,1,0,New York City,,"90.0 (9.3, 10.0)","10.0 (9.3, 10.0)"
+2017,PUMA2010,3701,8,"Riverdale, Fieldston & Kingsbridge","36,000","88.8 (84.1, 93.5)",11.2
+2017,PUMA2010,3702,8,"Wakefield, Williamsbridge & Woodlawn","34,000","83.0 (77.6, 88.4)",17.0
+2017,PUMA2010,3703,8,"Co-op City, Pelham Bay & Schuylerville","43,000*","95.8* (92.2, 99.3)",4.2
+2017,PUMA2010,3704,8,"Pelham Parkway, Morris Park & Laconia","36,000","87.5 (81.3, 93.8)",12.5
+2017,PUMA2010,3705,8,"Belmont, Crotona Park East & East Tremont","37,000","75.8 (69.0, 82.5)",24.2
+2017,PUMA2010,3706,8,"Bedford Park, Fordham North & Norwood","41,000","87.3 (81.1, 93.4)",12.7
+2017,PUMA2010,3707,8,"Morris Heights, Fordham South & Mount Hope","33,000","79.7 (73.4, 86.0)",20.3
+2017,PUMA2010,3708,8,"Concourse, Highbridge & Mount Eden","35,000","84.6 (77.7, 91.6)",15.4
+2017,PUMA2010,3709,8,"Castle Hill, Clason Point & Parkchester","53,000","88.8 (84.3, 93.4)",11.2
+2017,PUMA2010,3710,8,"Hunts Point, Longwood & Melrose","40,000","84.3 (79.1, 89.5)",15.7
+2017,PUMA2010,3801,8,"Washington Heights, Inwood & Marble Hill","65,000","92.3 (89.6, 94.9)",7.7
+2017,PUMA2010,3802,8,"Hamilton Heights, Manhattanville & West Harlem","39,000","87.8 (82.6, 93.1)",12.2
+2017,PUMA2010,3803,8,Central Harlem,"44,000","82.2 (76.3, 88.0)",17.8
+2017,PUMA2010,3804,8,East Harlem,"41,000","85.1 (80.6, 89.6)",14.9
+2017,PUMA2010,3805,8,Upper East Side,"102,000*","96.4* (94.1, 98.8)",3.6
+2017,PUMA2010,3806,8,Upper West Side & West Side,"88,000","92.2 (89.6, 94.8)",7.8
+2017,PUMA2010,3807,8,"Chelsea, Clinton & Midtown Business District","72,000*","97.6* (96.0, 99.2)",2.4
+2017,PUMA2010,3808,8,"Murray Hill, Gramercy & Stuyvesant Town","69,000","93.9 (91.4, 96.4)",6.1
+2017,PUMA2010,3809,8,Chinatown & Lower East Side,"65,000","91.1 (87.9, 94.4)",8.9
+2017,PUMA2010,3810,8,"Battery Park City, Greenwich Village & Soho","76,000*","98.1* (96.4, 99.8)",1.9
+2017,PUMA2010,3901,8,"Tottenville, Great Kills & Annadale","51,000*","96.7* (94.3, 99.0)",3.3
+2017,PUMA2010,3902,8,New Springville & South Beach,"45,000*","98.4* (95.9, 100.0)",1.6
+2017,PUMA2010,3903,8,"Port Richmond, Stapleton & Mariner's Harbor","53,000","90.7 (86.6, 94.8)",9.3
+2017,PUMA2010,4001,8,Greenpoint & Williamsburg,"52,000","93.4 (90.2, 96.7)",6.6
+2017,PUMA2010,4002,8,Bushwick,"34,000","88.1 (82.1, 94.0)",11.9
+2017,PUMA2010,4003,8,Bedford-Stuyvesant,"41,000","89.0 (83.8, 94.2)",11.0
+2017,PUMA2010,4004,8,Brooklyn Heights & Fort Greene,"47,000","90.2 (86.5, 94.0)",9.8
+2017,PUMA2010,4005,8,"Park Slope, Carroll Gardens & Red Hook","41,000","92.3 (88.3, 96.4)",7.7
+2017,PUMA2010,4006,8,Crown Heights North & Prospect Heights,"37,000","86.5 (81.3, 91.7)",13.5
+2017,PUMA2010,4007,8,Brownsville & Ocean Hill,"32,000","81.7 (75.0, 88.4)",18.3
+2017,PUMA2010,4008,8,East New York & Starrett City,"47,000","88.8 (84.5, 93.1)",11.2
+2017,PUMA2010,4009,8,Canarsie & Flatlands,"61,000","92.5 (89.3, 95.7)",7.5
+2017,PUMA2010,4010,8,"East Flatbush, Farragut & Rugby","36,000","89.8 (85.5, 94.1)",10.2
+2017,PUMA2010,4011,8,"Crown Heights South, Prospect Lefferts & Wingate","34,000","87.9 (82.8, 93.0)",12.1
+2017,PUMA2010,4012,8,Sunset Park & Windsor Terrace,"35,000*","93.0* (88.3, 97.7)",7.0
+2017,PUMA2010,4013,8,Bay Ridge & Dyker Heights,"43,000","93.9 (90.4, 97.4)",6.1
+2017,PUMA2010,4014,8,"Borough Park, Kensington & Ocean Parkway","37,000*","91.5* (85.4, 97.5)",8.5
+2017,PUMA2010,4015,8,Flatbush & Midwood,"50,000","90.6 (86.8, 94.4)",9.4
+2017,PUMA2010,4016,8,"Sheepshead Bay, Gerritsen Beach & Homecrest","52,000*","95.4* (92.3, 98.4)",4.6
+2017,PUMA2010,4017,8,Bensonhurst & Bath Beach,"63,000","91.6 (88.2, 95.0)",8.4
+2017,PUMA2010,4018,8,Brighton Beach & Coney Island,"39,000","86.6 (80.3, 92.9)",13.4
+2017,PUMA2010,4101,8,Astoria & Long Island City,"68,000","92.7 (89.8, 95.7)",7.3
+2017,PUMA2010,4102,8,Jackson Heights & North Corona,"48,000","94.1 (91.3, 96.9)",5.9
+2017,PUMA2010,4103,8,"Flushing, Murray Hill & Whitestone","71,000","94.1 (91.1, 97.1)",5.9
+2017,PUMA2010,4104,8,"Bayside, Douglaston & Little Neck","34,000*","93.7* (89.9, 97.6)",6.3
+2017,PUMA2010,4105,8,"Queens Village, Cambria Heights & Rosedale","48,000","92.8 (89.0, 96.6)",7.2
+2017,PUMA2010,4106,8,"Briarwood, Fresh Meadows & Hillcrest","46,000","94.9 (92.0, 97.8)",5.1
+2017,PUMA2010,4107,8,Elmhurst & South Corona,"47,000*","96.2* (93.4, 98.9)",3.8
+2017,PUMA2010,4108,8,Forest Hills & Rego Park,"39,000","92.4 (88.3, 96.6)",7.6
+2017,PUMA2010,4109,8,Sunnyside & Woodside,"44,000","91.9 (87.5, 96.3)",8.1
+2017,PUMA2010,4110,8,"Ridgewood, Glendale & Middle Village","61,000","95.7 (93.4, 97.9)",4.3
+2017,PUMA2010,4111,8,Richmond Hill & Woodhaven,"36,000","91.9 (87.6, 96.2)",8.1
+2017,PUMA2010,4112,8,"Jamaica, Hollis & St. Albans","55,000","84.2 (79.6, 88.9)",15.8
+2017,PUMA2010,4113,8,Howard Beach & Ozone Park,"34,000*","94.3* (90.0, 98.6)",5.7
+2017,PUMA2010,4114,8,"Far Rockaway, Breezy Point & Broad Channel","33,000","83.2 (77.7, 88.7)",16.8
+2017,Borough,1,1,Bronx,"389,000","85.6 (83.8, 87.4)",14.4
+2017,Borough,2,1,Brooklyn,"783,000","90.4 (89.3, 91.5)",9.6
+2017,Borough,3,1,Manhattan,"661,000","92.6 (91.3, 93.8)",7.4
+2017,Borough,4,1,Queens,"664,000","92.3 (91.2, 93.5)",7.7
+2017,Borough,5,1,Staten Island,"149,000","95.0 (93.4, 96.5)",5.0
+2017,Citywide,1,0,New York City,"2,645,000","91.0 (90.4, 91.5)",9.1
+2014,PUMA2010,3701,8,"Riverdale, Fieldston & Kingsbridge","36,000","90.8 (85.8, 95.7)",9.2
+2014,PUMA2010,3702,8,"Wakefield, Williamsbridge & Woodlawn","43,000","86.6 (82.5, 90.8)",13.4
+2014,PUMA2010,3703,8,"Co-op City, Pelham Bay & Schuylerville","42,000","93.2 (89.2, 97.1)",6.8
+2014,PUMA2010,3704,8,"Pelham Parkway, Morris Park & Laconia","37,000","86.2 (81.6, 90.7)",13.8
+2014,PUMA2010,3705,8,"Belmont, Crotona Park East & East Tremont","39,000","74.4 (66.8, 82.1)",25.6
+2014,PUMA2010,3706,8,"Bedford Park, Fordham North & Norwood","39,000","82.7 (77.8, 87.7)",17.3
+2014,PUMA2010,3707,8,"Morris Heights, Fordham South & Mount Hope","33,000","81.0 (74.2, 87.8)",19.0
+2014,PUMA2010,3708,8,"Concourse, Highbridge & Mount Eden","37,000","81.4 (75.8, 87)",18.6
+2014,PUMA2010,3709,8,"Castle Hill, Clason Point & Parkchester","53,000","81.3 (76.1, 86.5)",18.7
+2014,PUMA2010,3710,8,"Hunts Point, Longwood & Melrose","36,000","74.3 (68, 80.5)",25.7
+2014,PUMA2010,3801,8,"Washington Heights, Inwood & Marble Hill","63,000","90.2 (87.4, 93.1)",9.8
+2014,PUMA2010,3802,8,"Hamilton Heights, Manhattanville & West Harlem","36,000","85.9 (80.5, 91.3)",14.1
+2014,PUMA2010,3803,8,Central Harlem,"45,000","86.9 (82, 91.7)",13.1
+2014,PUMA2010,3804,8,East Harlem,"41,000","87.6 (82.6, 92.5)",12.4
+2014,PUMA2010,3805,8,Upper East Side,"110,000","97.3 (95.8, 98.8)",2.7
+2014,PUMA2010,3806,8,Upper West Side & West Side,"95,000","93.9 (91.4, 96.5)",6.1
+2014,PUMA2010,3807,8,"Chelsea, Clinton & Midtown Business District","77,000","94.6 (92.1, 97)",5.4
+2014,PUMA2010,3808,8,"Murray Hill, Gramercy & Stuyvesant Town","77,000","95.2 (93.2, 97.1)",4.8
+2014,PUMA2010,3809,8,Chinatown & Lower East Side,"61,000","88.9 (85.6, 92.1)",11.1
+2014,PUMA2010,3810,8,"Battery Park City, Greenwich Village & Soho","79,000*","96.3* (93.8, 98.8)",3.7
+2014,PUMA2010,3901,8,"Tottenville, Great Kills & Annadale","54,000*","99.3* (98.3, 100)",0.7
+2014,PUMA2010,3902,8,New Springville & South Beach,"44,000*","96.3* (93.5, 99.1)",3.7
+2014,PUMA2010,3903,8,"Port Richmond, Stapleton & Mariner's Harbor","52,000","86.7 (81.9, 91.5)",13.3
+2014,PUMA2010,4001,8,Greenpoint & Williamsburg,"50,000","85.8 (80.7, 90.8)",14.2
+2014,PUMA2010,4002,8,Bushwick,"32,000","78.6 (71.7, 85.6)",21.4
+2014,PUMA2010,4003,8,Bedford-Stuyvesant,"38,000","76.8 (71.6, 82.1)",23.2
+2014,PUMA2010,4004,8,Brooklyn Heights & Fort Greene,"44,000","82.9 (77.1, 88.7)",17.1
+2014,PUMA2010,4005,8,"Park Slope, Carroll Gardens & Red Hook","42,000","90.7 (86.2, 95.3)",9.3
+2014,PUMA2010,4006,8,Crown Heights North & Prospect Heights,"37,000","76.6 (70.5, 82.7)",23.4
+2014,PUMA2010,4007,8,Brownsville & Ocean Hill,"28,000","70.8 (63.9, 77.7)",29.2
+2014,PUMA2010,4008,8,East New York & Starrett City,"40,000","81.7 (75.5, 87.9)",18.3
+2014,PUMA2010,4009,8,Canarsie & Flatlands,"57,000","85.9 (81.4, 90.3)",14.1
+2014,PUMA2010,4010,8,"East Flatbush, Farragut & Rugby","37,000","84.4 (79.4, 89.4)",15.6
+2014,PUMA2010,4011,8,"Crown Heights South, Prospect Lefferts & Wingate","35,000","81.9 (76.1, 87.7)",18.1
+2014,PUMA2010,4012,8,Sunset Park & Windsor Terrace,"36,000","84.7 (79.6, 89.9)",15.3
+2014,PUMA2010,4013,8,Bay Ridge & Dyker Heights,"45,000","89.3 (85.8, 92.9)",10.7
+2014,PUMA2010,4014,8,"Borough Park, Kensington & Ocean Parkway","42,000","89.4 (85.6, 93.2)",10.6
+2014,PUMA2010,4015,8,Flatbush & Midwood,"44,000","81.1 (76.1, 86)",18.9
+2014,PUMA2010,4016,8,"Sheepshead Bay, Gerritsen Beach & Homecrest","53,000","93.7 (91.1, 96.4)",6.3
+2014,PUMA2010,4017,8,Bensonhurst & Bath Beach,"67,000","93.7 (90.1, 97.2)",6.3
+2014,PUMA2010,4018,8,Brighton Beach & Coney Island,"46,000","89.7 (86.2, 93.2)",10.3
+2014,PUMA2010,4101,8,Astoria & Long Island City,"70,000","92.7 (89.6, 95.8)",7.3
+2014,PUMA2010,4102,8,Jackson Heights & North Corona,"47,000","91.0 (88, 93.9)",9.0
+2014,PUMA2010,4103,8,"Flushing, Murray Hill & Whitestone","85,000","92.5 (90, 94.9)",7.5
+2014,PUMA2010,4104,8,"Bayside, Douglaston & Little Neck","40,000*","98.6* (97, 100)",1.4
+2014,PUMA2010,4105,8,"Queens Village, Cambria Heights & Rosedale","53,000","92.9 (90.3, 95.6)",7.1
+2014,PUMA2010,4106,8,"Briarwood, Fresh Meadows & Hillcrest","52,000","94.1 (90.9, 97.3)",5.9
+2014,PUMA2010,4107,8,Elmhurst & South Corona,"44,000","92.3 (88.6, 96.1)",7.7
+2014,PUMA2010,4108,8,Forest Hills & Rego Park,"48,000*","98.0* (96.2, 99.8)",2.0
+2014,PUMA2010,4109,8,Sunnyside & Woodside,"47,000","91.8 (88.7, 94.9)",8.2
+2014,PUMA2010,4110,8,"Ridgewood, Glendale & Middle Village","56,000","93.5 (91.1, 95.9)",6.5
+2014,PUMA2010,4111,8,Richmond Hill & Woodhaven,"38,000","90.4 (86.4, 94.4)",9.6
+2014,PUMA2010,4112,8,"Jamaica, Hollis & St. Albans","61,000","86.7 (82.6, 90.8)",13.3
+2014,PUMA2010,4113,8,Howard Beach & Ozone Park,"35,000","92.1 (87.8, 96.3)",7.9
+2014,PUMA2010,4114,8,"Far Rockaway, Breezy Point & Broad Channel","33,000","81.6 (75.7, 87.4)",18.4
+2014,Borough,1,1,Bronx,"394,000","82.9 (81.4, 84.3)",17.1
+2014,Borough,2,1,Brooklyn,"773,000","84.8 (83.7, 86)",15.2
+2014,Borough,3,1,Manhattan,"685,000","92.7 (91.7, 93.7)",7.3
+2014,Borough,4,1,Queens,"711,000","92.0 (91.1, 92.9)",8.0
+2014,Borough,5,1,Staten Island,"151,000","93.7 (91.7, 95.7)",6.3
+2014,Citywide,1,0,New York City,"2,714,000","88.7 (88.2, 89.2)",11.3
